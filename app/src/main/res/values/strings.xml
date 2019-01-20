@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidApp</string>
+    <string name="title_activity_movie">TodoActivity</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="appName">Movies app 2018</string>
+    <string name="logout">LOGOUT</string>
+    <string name="id">Id</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="update">Update</string>
+</resources>
